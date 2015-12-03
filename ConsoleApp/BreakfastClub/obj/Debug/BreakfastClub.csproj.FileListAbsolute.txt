@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2013\Projects\BreakfastClub\BreakfastClub\bin\Debug\BreakfastClub.exe.config
+c:\users\michael\documents\visual studio 2013\Projects\BreakfastClub\BreakfastClub\bin\Debug\BreakfastClub.exe
+c:\users\michael\documents\visual studio 2013\Projects\BreakfastClub\BreakfastClub\bin\Debug\BreakfastClub.pdb
+c:\users\michael\documents\visual studio 2013\Projects\BreakfastClub\BreakfastClub\obj\Debug\BreakfastClub.exe
+c:\users\michael\documents\visual studio 2013\Projects\BreakfastClub\BreakfastClub\obj\Debug\BreakfastClub.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\BreakfastClub\BreakfastClub\obj\Debug\BreakfastClub.csprojResolveAssemblyReference.cache
